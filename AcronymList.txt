@@ -1,0 +1,345 @@
+1. 3DES Triple Digital Encryption Standard
+2. AAA Authentication, Authorization, and Accounting
+3. ABAC Attribute-based Access Control
+4. ACL Access Control List
+5. AES Advanced Encryption Standard
+6. AES256 Advanced Encryption Standards 256bit
+7. AH Authentication Header
+8. AI Artificial Intelligence
+9. AIS Automated Indicator Sharing
+10. ALE Annualized Loss Expectancy
+11. AP Access Point
+12. API Application Programming Interface
+13. APT Advanced Persistent Threat
+14. ARO Annualized Rate of Occurrence
+15. ARP Address Resolution Protocol
+16. ASLR Address Space Layout Randomization
+17. ASP Active Server Page
+18. ATT&CK Adversarial Tactics, Techniques, and Common Knowledge
+19. AUP Acceptable Use Policy
+20. AV Antivirus
+21. BASH Bourne Again Shell
+22. BCP Business Continuity Planning
+23. BGP Border Gateway Protocol
+24. BIA Business Impact Analysis
+25. BIOS Basic Input/Output System
+26. BPA Business Partnership Agreement
+27. BPDU Bridge Protocol Data Unit
+28. BYOD Bring Your Own Device
+29. CA Certificate Authority
+30. CAC Common Access Card
+31. CAPTCHA Completely Automated Public Turing Test to Tell Computers and Humans Apart
+32. CAR Corrective Action Report
+33. CASB Cloud Access Security Broker
+34. CBC Cipher Block Chaining
+35. CBT Computer-based Training
+36. CCMP Counter-Mode/CBC-Mac Protocol
+37. CCTV Closed-Circuit Television
+38. CERT Computer Emergency Response Team
+39. CFB Cipher Feedback
+40. CHAP Challenge Handshake Authentication Protocol
+41. CIO Chief Information Officer
+42. CIRT Computer Incident Response Team
+43. CIS Center for Internet Security
+44. CMS Content Management System
+45. COOP Continuity of Operation Planning
+46. COPE Corporate Owned Personal Enabled
+47. CP Contingency Planning
+48. CRC Cyclical Redundancy Check
+49. CRL Certificate Revocation List
+50. CSO Chief Security Officer
+51. CSP Cloud Service Provider
+52. CSR Certificate Signing Request
+53. CSRF Cross-Site Request Forgery
+54. CSU Channel Service Unit
+55. CTM Counter-Mode
+56. CTO Chief Technology Officer
+57. CVE Common Vulnerabilities and Exposures
+58. CVSS Common Vulnerability Scoring System
+59. CYOD Choose Your Own Device
+60. DAC Discretionary Access Control
+61. DBA Database Administrator
+62. DDoS Distributed Denial of Service
+63. DEP Data Execution Prevention
+64. DER Distinguished Encoding Rules
+65. DES Digital Encryption Standard
+66. DHCP Dynamic Host Configuration Protocol
+67. DHE Diffie-Hellman Ephemeral
+68. DKIM Domain Keys Identified Mail
+69. DLL Dynamic Link Library
+70. DLP Data Loss Prevention
+71. DMARC Domain Message Authentication Reporting and Conformance
+72. DMZ Demilitarized Zone
+73. DNAT Destination Network Address Transaction
+74. DNS Domain Name Service (Server)
+75. DNSSEC Domain Name System Security Extensions
+76. DoS Denial of Service
+77. DPO Data Privacy Officer
+78. DRP Disaster Recovery Plan
+79. DSA Digital Signature Algorithm
+80. DSL Digital Subscriber Line
+81. EAP Extensible Authentication Protocol
+82. ECB Electronic Code Book
+83. ECC Elliptic Curve Cryptography
+84. ECDHE Elliptic Curve Diffie-Hellman Ephemeral
+85. ECDSA Elliptic Curve Digital Signature Algorithm
+86. EDR Endpoint Detection and Response
+87. EFS Encrypted File System
+88. EOL End of Life
+89. EOS End of Service
+90. ERP Enterprise Resource Planning
+91. ESN Electronic Serial Number
+92. ESP Encapsulated Security Payload
+93. FACL File System Access Control List
+94. FDE Full Disk Encryption
+95. FPGA Field Programmable Gate Array
+96. FRR False Rejection Rate
+97. FTP File Transfer Protocol
+98. FTPS Secured File Transfer Protocol
+99. GCM Galois Counter Mode
+100. GDPR General Data Protection Regulation
+101. GPG Gnu Privacy Guard
+102. GPO Group Policy Object
+103. GPS Global Positioning System
+104. GPU Graphics Processing Unit
+105. GRE Generic Routing Encapsulation
+106. HA High Availability
+107. HDD Hard Disk Drive
+108. HIDS Host-Based Intrusion Detection System
+109. HIPS Host-Based Intrusion Prevention System
+110. HMAC Hashed Message Authentication Code
+111. HOTP HMAC based One Time Password
+112. HSM Hardware Security Module
+113. HTML HyperText Markup Language
+114. HTTP Hypertext Transfer Protocol
+115. HTTPS Hypertext Transfer Protocol over SSL/TLS
+116. HVAC Heating, Ventilation, Air Conditioning
+117. IaaS Infrastructure as a Service
+118. ICMP Internet Control Message Protocol
+119. ICS Industrial Control Systems
+120. IDEA International Data Encryption Algorithm
+121. IDF Intermediate Distribution Frame
+122. IdP Identity Provider
+123. IDS Intrusion Detection System
+124. IEEE Institute of Electrical and Electronics Engineers
+125. IKE Internet Key Exchange
+126. IM Instant Messaging
+127. IMAP4 Internet Message Access Protocol v4
+128. IoC Indicators of Compromise
+129. IoT Internet of Things
+130. IP Internet Protocol
+131. IPSec Internet Protocol Security
+132. IR Incident Response
+133. IRC Internet Relay Chat
+134. IRP Incident Response Plan
+135. ISO International Organization for Standardization
+136. ISP Internet Service Provider
+137. ISSO Information Systems Security Officer
+138. ITCP IT Contingency Plan
+139. IV Initialization Vector
+140. KDC Key Distribution Center
+141. KEK Key Encryption Key
+142. L2TP Layer 2 Tunneling Protocol
+143. LAN Local Area Network
+144. LDAP Lightweight Directory Access Protocol
+145. LEAP Lightweight Extensible Authentication Protocol
+146. MaaS Monitoring as a Service
+147. MAC Mandatory Access Control
+148. MAC Media Access Control
+149. MAC Message Authentication Code
+150. MAM Mobile Application Management
+151. MAN Metropolitan Area Network
+152. MBR Master Boot Record
+153. MD5 Message Digest 5
+154. MDF Main Distribution Frame
+155. MDM Mobile Device Management
+156. MFA Multifactor Authentication
+157. MFD Multi-Function Device
+158. MFP Multi-Function Printer
+159. MITM Man in the Middle
+160. ML Machine Learning
+161. MMS Multimedia Message Service
+162. MOA Memorandum of Agreement
+163. MOU Memorandum of Understanding
+164. MPLS Multi-Protocol Label Switching
+165. MSA Measurement Systems Analysis
+166. MSCHAP Microsoft Challenge Handshake
+167. Authentication Protocol
+168. MSP Managed Service Provider
+169. MSSP Managed Security Service Provider
+170. MTBF Mean Time Between Failures
+171. MTTF Mean Time to Failure
+172. MTTR Mean Time to Recover
+173. MTU Maximum Transmission Unit
+174. NAC Network Access Control
+175. NAS Network Attached Storage
+176. NAT Network Address Translation
+177. NDA Non-Disclosure Agreement
+178. NFC Near Field Communication
+179. NFV Network Functions Virtualization
+180. NIC Network Interface Card
+181. NIDS Network Based Intrusion Detection System
+182. NIPS Network Based Intrusion Prevention System
+183. NIST National Institute of Standards & Technology
+184. NTFS New Technology File System
+185. NTLM New Technology LAN Manager
+186. NTP Network Time Protocol
+187. OAUTH Open Authorization
+188. OCSP Online Certificate Status Protocol
+189. OID Object Identifier
+190. OS Operating System
+191. OSI Open Systems Interconnection
+192. OSINT Open Source Intelligence
+193. OSPF Open Shortest Path First
+194. OT Operational Technology
+195. OTA Over The Air
+196. OTG On The Go
+197. OVAL Open Vulnerability Assessment Language
+198. OWASP Open Web Application Security Project
+199. P12 PKCS #12
+200. P2P Peer to Peer
+201. PaaS Platform as a Service
+202. PAC Proxy Auto Configuration
+203. PAM Privileged Access Management
+204. PAM Pluggable Authentication Modules
+205. PAP Password Authentication Protocol
+206. PAT Port Address Translation
+207. PBKDF2 Password Based Key Derivation Function 2
+208. PBX Private Branch Exchange
+209. PCAP Packet Capture
+210. PCI DSS Payment Card Industry Data Security Standard
+211. PDU Power Distribution Unit
+212. PEAP Protected Extensible Authentication Protocol
+213. PED Personal Electronic Device
+214. PEM Privacy Enhanced Mail
+215. PFS Perfect Forward Secrece
+216. PFX Personal Information Exchange
+217. PGP Pretty Good Privacy
+218. PHI Personal Health Information
+219. PII Personally Identifiable Information
+220. PIV Personal Identity Verification
+221. PKCS Public Key Cryptography Standards
+222. PKI Public Key Infrastructure
+223. POP Post Office Protocol
+224. POTS Plain Old Telephone Service
+225. PPP Point-to-Point Protocol
+226. PPTP Point-to-Point Tunneling Protocol
+227. PSK Pre-Shared Key
+228. PTZ Pan-Tilt-Zoom
+229. QA Quality Assurance
+230. QoS Quality of Service
+231. PUP Potentially Unwanted Program
+232. RA Recovery Agent
+233. RA Registration Authority
+234. RACE Research and Development in Advanced Communications Technologies in Europe
+235. RAD Rapid Application Development
+236. RADIUS Remote Authentication Dial-in User Server
+237. RAID Redundant Array of Inexpensive Disks
+238. RAM Random Access Memory
+239. RAS Remote Access Server
+240. RAT Remote Access Trojan
+241. RC4 Rivest Cipher version 4
+242. RCS Rich Communication Services
+243. RFC Request for Comments
+244. RFID Radio Frequency Identifies
+245. RIPEMD RACE Integrity Primitives
+246. Evaluation Message Digest
+247. ROI Return on Investment
+248. RPO Recovery Point Objective
+249. RSA Rivest, Shamir, & Adleman
+250. RTBH Remote Triggered Black Hole
+251. RTO Recovery Time Objective
+252. RTOS Real-Time Operating System
+253. RTOS Real-Time Operating System
+254. RTP Real-Time Transport Protocol
+255. S/MIME Secure/Multipurpose Internet Mail Extensions
+256. SaaS Software as a Service
+257. SAE Simultaneous Authentication of Equals
+258. SAML Security Assertions Markup Language
+259. SAN Storage Area Network
+260. SAN Subject Alternative Name
+261. SCADA System Control and Data Acquisition
+262. SCAP Security Content Automation Protocol
+263. SCEP Simple Certificate Enrollment Protocol
+264. SDK Software Development Kit
+265. SDLC Software Development Life Cycle
+266. SDLM Software Development Life-cycle Methodology
+267. SDN Software Defined Networking
+268. SDV Software Defined Visibility
+269. SED Self-Encrypting Drives
+270. SEH Structured Exception Handler
+271. SFTP Secured File Transfer Protocol
+272. SHA Secure Hashing Algorithm
+273. SHTTP Secure Hypertext Transfer Protocol
+274. SIEM Security Information and Event Management
+275. SIM Subscriber Identity Module
+276. SIP Session Initiation Protocol
+277. SLA Service Level Agreement
+278. SLE Single Loss Expectancy
+279. S/MIME Secure/Multipurpose Internet Mail Exchanger
+280. SMS Short Message Service
+281. SMTP Simple Mail Transfer Protocol
+282. SMTPS Simple Mail Transfer Protocol Secure
+283. SNMP Simple Network Management Protocol
+284. SOAP Simple Object Access Protocol
+285. SOAR Security Orchestration, Automation, Response
+286. SoC System on Chip
+287. SOC Security Operations Center
+288. SPF Sender Policy Framework
+289. SPIM Spam over Internet Messaging
+290. SQL Structured Query Language
+291. SQLi SQL Injection
+292. SRTP Secure Real-Time Protocol
+293. SSD Solid State Drive
+294. SSH Secure Shell
+295. SSL Secure Sockets Layer
+296. SSO Single Sign On
+297. STIX Structured Threat Information eXchange
+298. STP Shielded Twisted Pair
+299. SWG Secure Web Gateway
+300. TACACS+ Terminal Access Controller Access Control System
+301. TAXII Trusted Automated eXchange of Indicator Information
+302. TCP/IP Transmission Control Protocol/Internet Protocol
+303. TGT Ticket Granting Ticket
+304. TKIP Temporal Key Integrity Protocol
+305. TLS Transport Layer Security
+306. TOTP Time-based One Time Password
+307. TPM Trusted Platform Module
+308. TSIG Transaction Signature
+309. TTP Tactics, Techniques, and Procedures
+310. UAT User Acceptance Testing
+311. UAV Unmanned Aerial Vehicle
+312. UDP User Datagram Protocol
+313. UEFI Unified Extensible Firmware Interface
+314. UEM Unified Endpoint Management
+315. UPS Uninterruptable Power Supply
+316. URI Uniform Resource Identifier
+317. URL Universal Resource Locator
+318. USB Universal Serial Bus
+319. USB OTG USB On The Go
+320. UTM Unified Threat Management
+321. UTP Unshielded Twisted Pair
+322. VBA Visual Basic
+323. VDE Virtual Desktop Environment
+324. VDI Virtual Desktop Infrastructure
+325. VLAN Virtual Local Area Network
+326. VLSM Variable Length Subnet Masking
+327. VM Virtual Machine
+328. VoIP Voice over IP
+329. VPC Virtual Private Cloud
+330. VPN Virtual Private Network
+331. VTC Video Teleconferencing
+332. WAF Web Application Firewall
+333. WAP Wireless Access Point
+334. WEP Wired Equivalent Privacy
+335. WIDS Wireless Intrusion Detection System
+336. WIPS Wireless Intrusion Prevention System
+337. WORM Write Once Read Many
+338. WPA WiFi Protected Access
+339. WPS WiFi Protected Setup
+340. WTLS Wireless TL
+341. XaaS Anything as a Service
+342. XML Extensible Markup Language
+343. XOR Exclusive Or
+344. XSRF Cross-Site Request Forgery
+345. XSS Cross-Site Scripting
